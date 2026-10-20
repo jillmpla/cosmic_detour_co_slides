@@ -36,7 +36,6 @@ The presentation combines fun vacation-planning elements with real planetary sci
 |---|---|
 | **Presenter** | Jill Platts, NASA Solar System Ambassador |
 | **Original venue** | Oneida Public Library, Oneida, New York |
-| **Presentation date** | October 19th, 2026 |
 | **Length** | Approximately 45 minutes |
 | **Audience** | General audiences |
 | **Route** | Earth, Mercury, Venus, Mars, Jupiter, Saturn, Uranus, and Neptune |
